@@ -1,6 +1,3 @@
-¡Vamos allá, Jared! 📘 Aquí tienes un borrador de README para tu juego de supervivencia multijugador, incorporando el estilo que estás desarrollando y la arquitectura técnica que ya construiste. Este documento puede ayudarte a presentar el proyecto en línea (GitHub, portafolio, etc.), compartirlo con colaboradores o incluso como parte de tu pitch.
-
----
 
 #  Survival Multiplayer – Proyecto Unity
 
