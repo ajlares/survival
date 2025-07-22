@@ -2,11 +2,11 @@
 
 ---
 
-# 🌲 Survival Multiplayer – Proyecto Unity
+#  Survival Multiplayer – Proyecto Unity
 
 **Survival Multiplayer** es un juego multijugador estilizado, de estética low-poly, centrado en la supervivencia en un mundo natural hostil. Los jugadores se mueven libremente, recolectan recursos, se enfrentan entre sí en combate cuerpo a cuerpo y exploran un paisaje dinámico que evoluciona según sus acciones.
 
-## 🎮 Características principales
+##  Características principales
 
 - **Movimiento y animaciones personalizadas** sincronizadas con las entradas del jugador.
 - **Recolección de recursos**: madera, piedra y fibra interactuables mediante zonas activas.
@@ -14,7 +14,7 @@
 - **Gestión dinámica del paisaje** que genera nuevos recursos cuando se agotan.
 - **Interacción en red con Mirror**, sincronizando estado de jugadores y recursos.
 
-## 🧠 Arquitectura de código
+##  Arquitectura de código
 
 ### PlayerBehabeour.cs  
 Controla el comportamiento del jugador local y en red:
@@ -45,20 +45,20 @@ Supervisión y regeneración del entorno:
 Detecta colisiones dentro de zonas de interacción:
 - Al tocar un objeto con tag `"HarvestMaterial"`, aplica daño usando el valor del jugador.
 
-## 🖼️ Estilo visual
+## 🖼 Estilo visual
 
 - Estética **low-poly** clara y vibrante.
 - Personajes con siluetas definidas y colores contrastantes.
 - Entorno modular diseñado para destacar recolección y navegación.
 
-## 🚧 Ideas futuras
+##  Ideas futuras
 
 - Sistema de crafteo e inventario.
 - Construcción de refugios.
 - Estados del jugador (vida, energía, hambre).
 - UI para interacciones, salud y recursos.
 
-## 🧪 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 | Herramienta      | Uso                         |
 |------------------|-----------------------------|
