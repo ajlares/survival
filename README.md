@@ -42,7 +42,7 @@ Supervisión y regeneración del entorno:
 Detecta colisiones dentro de zonas de interacción:
 - Al tocar un objeto con tag `"HarvestMaterial"`, aplica daño usando el valor del jugador.
 
-## 🖼 Estilo visual
+## Estilo visual
 
 - Estética **low-poly** clara y vibrante.
 - Personajes con siluetas definidas y colores contrastantes.
