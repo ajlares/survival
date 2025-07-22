@@ -64,7 +64,3 @@ Detecta colisiones dentro de zonas de interacción:
 | Cinemachine      | Cámara personalizada por jugador |
 | TextMeshPro      | Etiquetas y textos elegantes |
 | InputSystem      | Captura de entradas |
-
----
-
-¿Quieres que le agregue una sección sobre la narrativa o el tono humorístico que te gusta transmitir? También puedo ayudarte a adaptarlo para GitHub con badges o instrucciones de compilación si lo necesitas.
